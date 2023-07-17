@@ -1,0 +1,5 @@
+greetings = Message.create(content: 'Hello, world!')
+greetings1 = Message.create(content: 'Good morning!')
+greetings2 = Message.create(content: 'Howdy!')
+greetings3 = Message.create(content: 'Greetings!')
+greetings5 = Message.create(content: 'Salutations!')
