@@ -138,4 +138,4 @@ I would like to thank microverse for their resources.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/monicah79/Renters_ke/blob/setup/license) licensed.
+This project is [MIT](https://github.com/monicah79/hello-rails-react/blob/rails-setup/license) licensed.
